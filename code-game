@@ -1,0 +1,22 @@
+=== Rock, Paper, Scissors Game ===
+How many rounds do you want to play? 3
+
+Round 1
+Enter your choice (rock, paper, scissors): rock
+Computer chose: scissors
+You win this round!
+
+Round 2
+Enter your choice (rock, paper, scissors): paper
+Computer chose: rock
+You win this round!
+
+Round 3
+Enter your choice (rock, paper, scissors): scissors
+Computer chose: rock
+Computer wins this round!
+
+=== Game Over ===
+Your Score: 2
+Computer Score: 1
+Congratulations, you won the game!
