@@ -21,13 +21,5 @@ A simple and effective CLI-based Python application to track daily expenses, sum
 - Pandas
 - Matplotlib
 
----
 
-## 📷 Demo Screenshot
-
-> _(Include a screenshot of the pie chart or terminal output if available)_
-
----
-
-## 📂 Project Structure
 
